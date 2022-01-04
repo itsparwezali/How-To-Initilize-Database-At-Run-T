@@ -1,0 +1,110 @@
+data-init:
+  statusList:
+    -
+      name: CREATE_APPROVE
+      description : ACTIVE
+      icon: badge--active
+    -
+      name: EDIT_APPROVE
+      description : ACTIVE
+      icon: badge--active
+    -
+      name: BLOCKED_APPROVE
+      description : BLOCKED
+      icon: badge--blocked
+    -
+      name: DELETED_APPROVE
+      description : DELETED
+      icon: badge--deleted
+    -
+      name: PERMANENT_DELETED_APPROVE
+      description : PERMANENT DELETED
+      icon: badge--deleted
+    -
+      name: UNBLOCK_APPROVE
+      description : ACTIVE
+      icon: badge--active
+    -
+      name: CREATE_PENDING
+      description : PENDING
+      icon: badge--pending
+    -
+      name: LOCKED
+      description : LOCKED
+      icon: badge--locked
+    -
+      name: EXPIRED
+      description : EXPIRED
+      icon: badge--expired
+    -
+      name: REOPEN_APPROVED
+      description : ACTIVE
+      icon: badge--active
+    -
+      name: REOPEN_PENDING
+      description : PENDING
+      icon: badge--pending
+    -
+      name: UNBLOCK_PENDING
+      description : PENDING
+      icon: badge--pending
+    -
+      name: EDIT_PENDING
+      description : PENDING
+      icon: badge--pending
+    -
+      name: PENDING
+      description : PENDING
+      icon: badge--pending
+    -
+      name: SUCCESSFUL
+      description : SUCCESSFUL
+      icon: badge--success
+    -
+      name: FAILURE
+      description : FAILURE
+      icon: badge--failed
+    -
+      name: TIMEOUT
+      description : TIMEOUT
+      icon: badge--timeout
+    -
+      name: DISBURSED_TO_CUSTOMER
+      description : DISBURSED TO CUSTOMER
+      icon: badge--disbursed
+    -
+      name: ACTIVE
+      description : ACTIVE
+      icon: badge--active
+    -
+      name: OVERDUE
+      description : OVERDUE
+      icon: badge--overdue
+    -
+      name: PAID
+      description : PAID
+      icon: badge--paid
+    -
+      name: DEFAULT
+      description : DEFAULT
+      icon: badge--default
+    -
+      name: SETTLED
+      description : SETTLED
+      icon: badge--settled
+    -
+      name: AMBIGUOUS
+      description : AMBIGUOUS
+      icon: badge--ambiguous
+    -
+      name: INSUFFICIENT_BALANCE
+      description : INSUFFICIENT BALANCE
+      icon: badge--pending
+    -
+      name: LOAN_SETTLEMENT_AMBIGUOUS
+      description : OVERDUE
+      icon: badge--ambiguous
+    -
+      name: UPCOMING
+      description : UPCOMING
+      icon: badge--active
